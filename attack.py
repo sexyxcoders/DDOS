@@ -1021,7 +1021,7 @@ h2 = """
 <b>How To Attack Leyer 4</b>:<i> /AttackL4 -url https://example.com -method TCP -port 80 -thread 3000 -time 50</i>\n
 <b>How Get Proxy </b>: <i>/proxy [SOCKS5 or HTPP]</i>\n
 <b> How get Ping</b>: <i>/ping google.com</i>\n
-<b>BOT</b> :<i> @MRESFELURM</i>\n
+<b>BOT</b> :<i> @noncarder</i>\n
 """
 @bot.message_handler(commands=['help'])
 def help(message):
