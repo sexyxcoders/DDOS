@@ -1,6 +1,6 @@
 
-token = "8416483970:AAEO04WcwIaw3vknIAw889tma84sUespG5U"
-chat_id = "-1003611344655"
+token = 8416483970:AAEO04WcwIaw3vknIAw889tma84sUespG5U
+chat_id = -1003611344655
 
 
 import telebot
